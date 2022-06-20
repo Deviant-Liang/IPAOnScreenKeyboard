@@ -1,0 +1,12 @@
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\bin\Debug\IPAOnScreenKeyboard.exe.config
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\bin\Debug\IPAOnScreenKeyboard.exe
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\bin\Debug\IPAOnScreenKeyboard.pdb
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.csproj.AssemblyReference.cache
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.Form1.resources
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.Properties.Resources.resources
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.csproj.GenerateResource.cache
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.csproj.CoreCompileInputs.cache
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.exe
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.pdb
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\bin\Debug\DragAssembly.dll
+C:\Users\billb\OneDrive\文件\GitHub\IPAOnScreenKeyboard\IPAOnScreenKeyboard\IPAOnScreenKeyboard\obj\Debug\IPAOnScreenKeyboard.csproj.CopyComplete

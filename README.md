@@ -1,0 +1,1 @@
+# IPA on-screen keyboardThis project makes people easier to type IPA symbols.The .exe is under the following route: IPAOnScreenKeyboard/bin/release## GUI![](GUI.png)
